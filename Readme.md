@@ -1,4 +1,6 @@
 # CPU Profiler
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Foraoto%2Fpony-cpuprofiler.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Foraoto%2Fpony-cpuprofiler?ref=badge_shield)
+
 
 This package provides bindings to google's cpuprofiler library.
 
@@ -62,3 +64,7 @@ $ pprof --svg ./counter counter.profile > counter.svg
 
 
 <img src="/examples/counter/counter.svg" width="2048" height="800" style="max-width:100%;">
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Foraoto%2Fpony-cpuprofiler.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Foraoto%2Fpony-cpuprofiler?ref=badge_large)
